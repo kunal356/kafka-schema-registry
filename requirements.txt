@@ -1,0 +1,7 @@
+confluent_kafka
+fastavro
+fastapi[all]
+python-dotenv
+Faker
+requests
+httpie
